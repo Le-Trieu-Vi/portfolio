@@ -28,5 +28,3 @@
 
 📫 **Let’s Connect!**  
 - **Email**: letrieuvi1209@gmail.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
